@@ -1,3 +1,3 @@
 # text_analytics
 
-- Repositories
+- Corpora
